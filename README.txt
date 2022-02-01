@@ -7,7 +7,7 @@ CMPT 135 Assignment 5
 Names of Team Members
 ---------------------
 
-Jason Cai, jason_cai_4@sfu.ca, 301426943
+Jason Cai, jason_cai_4@sfu.ca
 
 
 Instructions for Compiling and Running
