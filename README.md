@@ -23,6 +23,6 @@
 
 ![image](https://user-images.githubusercontent.com/44034888/162930408-0fe6d2a6-fc56-45c7-af99-34ba654e0f07.png)
 
-# disclaimer, the list of random names used in the operator generation program is extracted from a list of dictionary words from the internet.
-# The names that are randomly generated are NOT original
-# However, a majority of the currently existing operators within the database are based off the real world mobile gacha game "Arknights"
+disclaimer, the list of random names used in the operator generation program is extracted from a list of dictionary words from the internet.
+The names that are randomly generated are NOT original
+However, a majority of the currently existing operators within the database are based off the real world mobile gacha game "Arknights"
